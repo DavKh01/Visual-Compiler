@@ -1,0 +1,11 @@
+const int val;
+long int val;
+long long int val;
+unsigned short val;
+bool val;
+short val;
+unsigned int val;
+float val;
+char val;
+double val;
+int val;

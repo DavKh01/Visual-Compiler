@@ -1,0 +1,5 @@
+ int Integer; double Double; char Character; float Float; short Short; bool Boolean;
+ unsigned int integerNumber = 10; Double; double doubleNumber = 3.14159; unsigned char character = 'A'; unsigned float floatNumber = 2.71828f;
+ unsigned short shortNumber = 1000; doubleNumber; unsigned bool boolean = true;  long long int result;
+ long int sum; shortNumber; const int constantValue = 11;   constantValue;   otherValue; boolean;
+
